@@ -1,4 +1,3 @@
-package com.example;
 public class App {
     public static void main(String[] args) {
         int number = 29;
@@ -10,3 +9,4 @@ public class App {
         return true;
     }
 }
+
